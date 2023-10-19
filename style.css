@@ -1,0 +1,76 @@
+body {
+    display: flx;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin: 17%;
+    text-align: center;
+    
+    
+}
+
+.container {
+    text-align: center;   
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-size: 10px;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+h4{
+    font-size: 10px;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-weight: 900;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 100;
+    font-family: 'M PLUS 1 Code', monospace;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 90%;
+    margin-top: 2%;
+    height: auto;
+    border-radius: 0.4rem;
+}
+
+.caption {
+    font-size: 10px;
+}
+
+.cover-container a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #b5c9d6; /* Button background color */
+    color: #fff; /* Text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    font-weight: bold;
+}
+
+/* Hover effect */
+.cover-container a:hover {
+    background-color: #464d7e; /* Change background color on hover */
+}
+
+
